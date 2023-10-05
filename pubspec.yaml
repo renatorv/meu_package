@@ -1,7 +1,7 @@
 name: meu_package
 description: My package test.
 version: 0.0.1
-homepage:
+homepage: https://github.com/renatorv/meu_package.git
 
 environment:
   sdk: '>=3.0.6 <4.0.0'
